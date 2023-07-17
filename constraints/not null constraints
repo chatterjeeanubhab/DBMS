@@ -1,0 +1,4 @@
+create table cust(
+cust_id number not null,
+cust_name varchar(2) not null);
+
