@@ -1,0 +1,1 @@
+alter table customer add constraint cust_id_un unique(cust_id);
