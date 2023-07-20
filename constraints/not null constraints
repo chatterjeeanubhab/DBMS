@@ -3,7 +3,7 @@ cust_id number not null,
 cust_name varchar(10) not null);
 ================================
 insert into cust values(1,'Ram');    //successfully create 
-insert into cust values(2,'');       // cannot insert NULL values
+insert into cust values(2,'');       // cannot insert NULL value
 
 
 To modify old table and not null constraints of a column
